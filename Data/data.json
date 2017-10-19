@@ -1,0 +1,35 @@
+[
+  {
+  "id": 1,
+  "product": "产品名称",
+  "image": "Content/images/2.png",
+  "addr": "北京",
+  "state": true,
+  "num": 1,
+  "price": 1500,
+  "size": "M",
+  "color": "red"
+},
+  {
+    "id": 2,
+    "name": "后街舒适",
+    "image": "http://localhost:8080/Content/images/icon/img_02.png",
+    "addr": "北京",
+    "state": true,
+    "num": 1,
+    "price": 2300,
+    "size": "L",
+    "color": "green"
+  },
+  {
+    "id": 3,
+    "name": "后街豪华",
+    "image": "http://localhost:8080/Content/images/icon/img_03.png",
+    "addr": "北京",
+    "state": false,
+    "num": 1,
+    "price": 3600,
+    "size": "s",
+    "color": "blue"
+  }
+]
